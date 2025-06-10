@@ -42,7 +42,7 @@ Este minijogo em Python simula uma **corrida entre processos** no terminal, demo
   - `NUM_PROCESSOS` (quantidade de processos)
   - `QUANTUM` (tamanho da fatia de tempo)
   - `TAMANHO_BARRA` (comprimento gráfico da barra)
-
+- **Uso de IA**: Chat GPT o4-mini-high foi utilizado para ajudar a implementar os algoritmos de escalonamento
 ---
 
 © 2025 — Projeto desenvolvido em Python para aprendizado de sistemas operacionais e escalonamento de processos.
